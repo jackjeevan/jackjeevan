@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jackjeevan
 - 👀 I’m interested in learning, building, solving, tutoring.
-- 🌱 I’m currently learning Web-D, DSA etc..
+- 🌱 I’m currently learning WebD, DSA etc..
 - 💞️ I’m looking to collaborate on minor college projects, web projects, cyber security.
 - 📫 How to reach me ..
 
