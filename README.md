@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jackjeevan
+- 👋 Hi, I’m @jeevan
 - 👀 I’m interested in learning, building, solving, tutoring.
 - 🌱 I’m currently learning WebD, DSA etc..
 - 💞️ I’m looking to collaborate on minor college projects, web projects, cyber security.
